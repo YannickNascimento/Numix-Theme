@@ -1,5 +1,3 @@
-# Numix-Theme
-
 # Linux Mint 18.1 plank theme
 
 # To install:
